@@ -14,6 +14,9 @@ Stegoflash is a tool for hiding messages,files.. etc in JPEG and PNG files!
 <h2>How to do i stego my stuff?? </h2>
 <h3>Easy.</h3>
     
+    Run with: python3 Stegoflash.py {and then commands specified below}
+    
+    
     🔵 -h  {filename} { text or file} - specify when hiding text/ file data into file,
   
     🔵 -r  {filename} - read embedded data (NOT ACTUAL IMAGE DATA!)
