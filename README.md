@@ -20,9 +20,9 @@ Stegoflash is a tool for hiding messages,files.. etc in JPEG and PNG files!
      
     🔵 -e {filename} {name of file where to save data} - use when extracting data from image to another file
     
-    🔵 -en {filename} {key} - used to encrypt secret data in file , and make it more secure. ( NEED TO SPECIFY A 🔑)
+    🔵 -en {filename} {key} - used to encrypt secret data in file , and make it more secure. ( NEED TO SPECIFY A 🔑) ( STILL IN REALLY BETA PHASE)
       
-    🔵 -de {filename} {key} - used to decrypt secret data in file , and output it to the screen.
+    🔵 -de {filename} {key} - used to decrypt secret data in file , and output it to the screen. ( STILL IN REALLY BETA PHASE)
     
     
     
