@@ -35,15 +35,14 @@ Stegoflash is a tool for hiding messages,files.. etc in JPEG and PNG files!
 
 
 
-<h2>Patch Notes:</h2>
+<h2>Changelog:</h2>
 
 
 <h3>Version 1.0a</h3>
 	
-
+	
 		Built main function
 		Added full support for PNG,JPEG.
-		Half working: mp3, mp4 ....
 		didn't fix pycrypto error(need to add encryption and decryption)
    
     
