@@ -1,8 +1,15 @@
-# Stegoflash
+# Stegoflash🔑
 Stegoflash is a tool for hiding messages,files.. etc in JPEG and PNG files!
 <br>Our goal is to make stegonography fun.</br>
-<br>Tool is based on Python3. </br>
-<br>Now on more important stuff.</br>
+<br>Tool is based on Python3.</br>
+<br>Now on more important stuff.😁</br>
+
+<h2>How to setup it? </h2>
+
+	
+	Just install Python3,and no fuss!🦾
+	After that install pycrypto with: 
+	pip3 install pycrypto
 
 <h2>How to do i stego my stuff?? </h2>
 <h3>Easy.</h3>
@@ -20,7 +27,12 @@ Stegoflash is a tool for hiding messages,files.. etc in JPEG and PNG files!
     
     
 <h2>Example:</h2>
-![1231](https://user-images.githubusercontent.com/62068607/143486215-54b9564b-db5a-434e-936e-2af264d50f99.png)
+
+
+![ad](https://user-images.githubusercontent.com/62068607/143486369-f8daaa10-8f4d-44c6-9bf8-e046d7156047.png)
+
+
+
 
 
 <h2>Patch Notes:</h2>
